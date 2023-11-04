@@ -33,11 +33,6 @@ This project utilizes Java synchronization tools:
 
 - The project consists of various Java classes that demonstrate the behaviors of the TA and students.
 - Compile the project and run the `tutorRoom.java` file to observe the interaction and functionalities.
+ 
 
-## Contributions
 
-Contributions to the project, including feature enhancements, code refinement, and performance improvements, are welcome. 
-
-## License
-
-This project is available under the MIT License. See [LICENSE](LICENSE) for further details.
